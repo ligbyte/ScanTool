@@ -1,0 +1,48 @@
+plugins {
+    id 'com.android.library'
+}
+
+def versionName = "3.3.5"
+
+android {
+    compileSdk 33
+
+    defaultConfig {
+        minSdk 21
+        targetSdk 33
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles "consumer-rules.pro"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    namespace 'com.hello.scan'
+    ndkVersion '20.1.5948944'
+
+    libraryVariants.configureEach {
+        variant ->
+            variant.outputs.configureEach {
+                output ->
+                    outputFileName = "scan-sdk-v${versionName}-${buildType.name}.aar"
+            }
+    }
+}
+
+dependencies {
+    /**
+     * tps537机型需要io口控制，硬复位扫码器
+     */
+    //implementation project(path: ':tps537_io_crtl')
+    compileOnly files('libs/telpo_sdk_20230428.jar')
+}

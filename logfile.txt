@@ -1,0 +1,78 @@
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB
+Horizon: enter get_mac_address
+Horizon: CreatePipe
+Horizon: CreateProcess
+Horizon: WaitForSingleObject
+Horizon: ReadPipe
+mac_address is : A0-36-BC-58-2C-AB

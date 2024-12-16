@@ -1,0 +1,13 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+//        maven {url 'https://maven.aliyun.com/repository/public/'}
+//        maven{ url 'https://maven.aliyun.com/repository/google'}
+        mavenCentral()
+        google()
+    }
+}
+rootProject.name = "ScanTool"
+include ':tps537_io_crtl'
+include ':scan-sdk'
+include ':demo'
