@@ -4,4 +4,4 @@
 
 tps537_io_crtl  module包含使用Android操作GPIO驱动demo
 
-[](https://github.com/ligbyte/ScanTool/blob/main/imgs/gpio.png?raw=true)
+![](https://github.com/ligbyte/ScanTool/blob/main/imgs/gpio.png?raw=true)
